@@ -8,45 +8,45 @@
 2. Machine Learning Paradigms
 
 
-3. Linear Regression 1h
+3. Linear Regression 
 
-a) Linear Two class classification
+    a. Linear Two class classification
 
-b) Linear multi class classification
+    b. Linear multi class classification
 
-c) Linear unsupervised learning
+    c. Linear unsupervised learning
 
 4. Kernel Methods 1h30
 
-a) Fixed shape and universal approximation
+    a. Fixed shape and universal approximation
 
-b) Kernel trick
+    b. Kernel trick
 
-c) Optimization
+    c. Optimization
 
-d) Cross validation
+    d. Cross validation
 
 5. Neural Network 1h30
 
-a) Fully connected neural network
+    a. Fully connected neural network
 
-b) Activation function
+    b. Activation function
 
-c) Optimization
+    c. Optimization
 
-d) Early stopping
+    d. Early stopping
 
 6. Tree based learner 2h
 
-a) Regression Trees
+    a. Regression Trees
 
-b) Classification trees
+    b. Classification trees
 
-c) Gradient boosting
+    c. Gradient boosting
 
-d) Random forest
+    d. Random forest
 
-e) Cross validation
+    e. Cross validation
 
 
 
