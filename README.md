@@ -56,4 +56,5 @@
 
 * Introduction to Machine Learning Etienne Bernard
 
+* [Notebooks shared folder for google colab](https://drive.google.com/drive/folders/10sHpNNxdO2k5nTreLkxM6h0KbRYbJBt4?usp=sharing)
 
