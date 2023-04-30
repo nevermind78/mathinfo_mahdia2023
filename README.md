@@ -16,7 +16,7 @@
 
     c. Linear unsupervised learning
 
-4. Kernel Methods 1h30
+4. Kernel Methods 
 
     a. Fixed shape and universal approximation
 
@@ -26,7 +26,7 @@
 
     d. Cross validation
 
-5. Neural Network 1h30
+5. Neural Network 
 
     a. Fully connected neural network
 
@@ -36,7 +36,7 @@
 
     d. Early stopping
 
-6. Tree based learner 2h
+6. Tree based learner 
 
     a. Regression Trees
 
